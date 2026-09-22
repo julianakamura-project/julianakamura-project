@@ -1,5 +1,4 @@
 Julia Nakamura
-Technology | Data | Automation
 
 ### ASD Student | Python | Data | Automation
 
