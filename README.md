@@ -1,5 +1,4 @@
-Julia Nakamura
-
+### Julia Nakamura
 ### ASD Student | Python | Data | Automation
 
 I'm an Analysis and Systems Development student interested in
